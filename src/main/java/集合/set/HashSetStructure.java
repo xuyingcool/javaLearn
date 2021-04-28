@@ -13,7 +13,7 @@ public class HashSetStructure {
         table[2] =jop ;
         jop.next = jso;
 
-        HashSet
+
         System.out.println(table);
 
     }
